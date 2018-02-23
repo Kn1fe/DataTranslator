@@ -1,0 +1,989 @@
+﻿<Mappings><Entry OldName="Tasks.ATaskTemplFixedData.m_ID" NewName="Tasks.ATaskTemplFixedData.ced6ef3a1ade6335c94d6380e2431d0a5" />
+<Entry OldName="Tasks.ATaskTemplFixedData.m_szName" NewName="Tasks.ATaskTemplFixedData.c43f910e63a9f8b35d21796e9a96ec815" />
+<Entry OldName="Tasks.ATaskTemplFixedData.m_pszSignature" NewName="Tasks.ATaskTemplFixedData.ccdc3058cb0eae89dd138791814793d9f" />
+<Entry OldName="DataTranslator.Form1.etl" NewName="DataTranslator.Form1.c169ee8dffe8cabd591fa4340e13036c5" />
+<Entry OldName="DataTranslator.Form1.src" NewName="DataTranslator.Form1.ca6ea4015342149be2eb4a3a46ef95860" />
+<Entry OldName="DataTranslator.Form1.dst" NewName="DataTranslator.Form1.c16066fbf24be6b58266c9ad471d746be" />
+<Entry OldName="DataTranslator.Form1.ed" NewName="DataTranslator.Form1.ca4083f46251818bc38019d8e612270b9" />
+<Entry OldName="DataTranslator.Form1.t_src" NewName="DataTranslator.Form1.c8399071d9c57ee9a25b70ac03f3f7906" />
+<Entry OldName="DataTranslator.Form1.t_dst" NewName="DataTranslator.Form1.ceb9886d20d43996ef453225a492f1e12" />
+<Entry OldName="DataTranslator.Form1.t_src_v" NewName="DataTranslator.Form1.cc382e4a9cc6a84b28d60c157557b7e56" />
+<Entry OldName="DataTranslator.Form1.t_dst_v" NewName="DataTranslator.Form1.c36c423dc01a4353ec856fb0009c37a2c" />
+<Entry OldName="DataTranslator.Form1.el_pattern" NewName="DataTranslator.Form1.c0c280389ac64d3a7603942f4a361f7e2" />
+<Entry OldName="DataTranslator.Form1.components" NewName="DataTranslator.Form1.ce007c64b74e35ae94bacdc102dc8a161" />
+<Entry OldName="DataTranslator.Form1.tabControl1" NewName="DataTranslator.Form1.c6486e7df0e48b935327b12ccb74edb2d" />
+<Entry OldName="DataTranslator.Form1.tabPage1" NewName="DataTranslator.Form1.c8d8016421ebccfcaba97132a162611ab" />
+<Entry OldName="DataTranslator.Form1.tabPage2" NewName="DataTranslator.Form1.c6818a03f8065f015ec2d999b4d8fcbe9" />
+<Entry OldName="DataTranslator.Form1.tabPage3" NewName="DataTranslator.Form1.c596b491dea7b5700d584bc2e0d9941f0" />
+<Entry OldName="DataTranslator.Form1.import_el" NewName="DataTranslator.Form1.ceea3c3f82fdb69d438fd63d8a1306515" />
+<Entry OldName="DataTranslator.Form1.open_el" NewName="DataTranslator.Form1.c22877053d09e9d7f113a73ab819c685d" />
+<Entry OldName="DataTranslator.Form1.label1" NewName="DataTranslator.Form1.c420c315b690afca606398dccad49dbfc" />
+<Entry OldName="DataTranslator.Form1.label2" NewName="DataTranslator.Form1.c948f59bc6e95e0e29c6ecadaed7303f2" />
+<Entry OldName="DataTranslator.Form1.dest_status" NewName="DataTranslator.Form1.c10943a8c14be60498cac4c78277642ca" />
+<Entry OldName="DataTranslator.Form1.src_status" NewName="DataTranslator.Form1.c5cf526a6afa3a32e12ea340ff33f8ee7" />
+<Entry OldName="DataTranslator.Form1.label3" NewName="DataTranslator.Form1.cba70194f03b6ff3dc8a205601f6ae300" />
+<Entry OldName="DataTranslator.Form1.label4" NewName="DataTranslator.Form1.c1c4e78d0d57fe7f8b1b643a1541391a7" />
+<Entry OldName="DataTranslator.Form1.import_task" NewName="DataTranslator.Form1.cd25c78e181f3d6f74a5608eb00ef3e81" />
+<Entry OldName="DataTranslator.Form1.open_task" NewName="DataTranslator.Form1.c60d95393ed2eae967252e26c852846fc" />
+<Entry OldName="DataTranslator.Form1.ProgressStatus" NewName="DataTranslator.Form1.ceba93277f0c27bec94c84c46e62e2104" />
+<Entry OldName="DataTranslator.Form1.t_dst_status" NewName="DataTranslator.Form1.c3673755a3d4a4339f084cd7aeb686afd" />
+<Entry OldName="DataTranslator.Form1.t_src_status" NewName="DataTranslator.Form1.c984b74bc6b5ba05d360d9aee8c4adf64" />
+<Entry OldName="DataTranslator.Form1.debugBox" NewName="DataTranslator.Form1.cb899e7b036900d90a007177a602547d9" />
+<Entry OldName="DataTranslator.Properties.Resources.resourceMan" NewName="A.cf53a843d2e946026c2012e9dae328ef7.c76f4feb84b6d0e86ded556d5c86dcd32" />
+<Entry OldName="DataTranslator.Properties.Resources.resourceCulture" NewName="A.cf53a843d2e946026c2012e9dae328ef7.c4bb7b8eebf537523c8dbbb090ff539ec" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.85AE3A6CBFA729696C29FB0E083273A853D42AC0" NewName="A.caa46d3a86fbec15aa5794cf3e320b93a.c554aff787c7126410b3ab36b04734f14" />
+<Entry OldName="Tasks.ATaskTemplFixedData.Load(Int32 version, BinaryReader br, Int32 stream_position, TreeNodeCollection nodes)" NewName="Tasks.ATaskTemplFixedData.c787d6afbb31f1f7da0bafa09a32b46d5(Int32 , BinaryReader , Int32 , TreeNodeCollection )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ByteArray_to_HexString(Byte[] value)" NewName="Tasks.ATaskTemplFixedData.c5d1f88169a3f3a87a09b7bb4debeed53(Byte[] )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.HexString_to_ByteArray(String value)" NewName="Tasks.ATaskTemplFixedData.c10ac1c56c8e0ac2f663e82b95ba5fc23(String )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ByteArray_to_GbkString(Byte[] text)" NewName="Tasks.ATaskTemplFixedData.c4e8fff8bbd28a3421778191c9451ff21(Byte[] )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.GbkString_to_ByteArray(String text, Int32 length)" NewName="Tasks.ATaskTemplFixedData.cc6c2d45cff454488fe26bf5a69b92571(String , Int32 )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ByteArray_to_UnicodeString(Byte[] text)" NewName="Tasks.ATaskTemplFixedData.c35e47e6b420cdbb077e5f500186414e4(Byte[] )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.UnicodeString_to_ByteArray(String text, Int32 length)" NewName="Tasks.ATaskTemplFixedData.c18c281ff6e328836c312fe448b000ba0(String , Int32 )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.Readtask_tm(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.cdf2fea40b65a9faa98818b55d844d2b9(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadITEM_WANTED(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.cfe901c306caa102e36657b9975ea5a3e(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadAWARD_ITEMS_CAND(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c0391b8f18ebdb7a47ded7b4dc325f1ff(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadTitleAward(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c3c9c9beb51219447e0a0a14606567cee(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadTEAM_MEM_WANTED(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c7d368f81a2474d46b6dccb96b88c9631(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadCOMPARE_KEY_VALUE(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c48ddb25b34ecaca212503c3291901f87(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadPLAYER_WANTED(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c9b2c23ac2831cfaa0d487ebe1d04edbe(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadMONSTER_WANTED(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.cc9e7ba0a07f027bf07c7fac004c6c40c(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadZONE_VERT(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.cbf5d598f08e6c001627996baf2efcff0(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadTask_Region(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c899cd54ae14a1f8dedacb28391996403(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadTASK_EXPRESSION(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c4b2f1067b3f1894360ea304169d17150(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadMONSTERS_CONTRIB(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c08da6cfde5bdeff48043817e4ffb6fc1(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.ReadReward(Int32 version, BinaryReader br)" NewName="Tasks.ATaskTemplFixedData.c3eae7a62229088a6e8d4d530f18713f4(Int32 , BinaryReader )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.Writetask_tm(Int32 version, BinaryWriter bw, task_tm task_tm)" NewName="Tasks.ATaskTemplFixedData.cef9c7747f2337549f23ba5731cbda630(Int32 , BinaryWriter , task_tm )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteITEM_WANTED(Int32 version, BinaryWriter bw, ITEM_WANTED item)" NewName="Tasks.ATaskTemplFixedData.c9fda48891770b6e8f2ab536cbe6de441(Int32 , BinaryWriter , ITEM_WANTED )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteTITLE_AWARD(Int32 version, BinaryWriter bw, TITLE_AWARD m_pTitleAward)" NewName="Tasks.ATaskTemplFixedData.cebae0e9dd003c127380c33964915cc9b(Int32 , BinaryWriter , TITLE_AWARD )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteAWARD_ITEMS_CAND(Int32 version, BinaryWriter bw, AWARD_ITEMS_CAND canditems)" NewName="Tasks.ATaskTemplFixedData.c68de136f1a46d94dde3b8ecf50e64096(Int32 , BinaryWriter , AWARD_ITEMS_CAND )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteTEAM_MEM_WANTED(Int32 version, BinaryWriter bw, TEAM_MEM_WANTED m_TeamMemsWanted)" NewName="Tasks.ATaskTemplFixedData.c6a04cd1d132a934c9ceeea2f6cb46798(Int32 , BinaryWriter , TEAM_MEM_WANTED )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteCOMPARE_KEY_VALUE(Int32 version, BinaryWriter bw, COMPARE_KEY_VALUE COMPARE_KEY_VALUE)" NewName="Tasks.ATaskTemplFixedData.ce69c1b337584913f82fb7a91e9c1f3de(Int32 , BinaryWriter , COMPARE_KEY_VALUE )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WritePLAYER_WANTED(Int32 version, BinaryWriter bw, PLAYER_WANTED m_PlayerWanted)" NewName="Tasks.ATaskTemplFixedData.c3ffba3d825a34c7edfb0178ce1cee96d(Int32 , BinaryWriter , PLAYER_WANTED )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteMONSTER_WANTED(Int32 version, BinaryWriter bw, MONSTER_WANTED m_MonsterWanted)" NewName="Tasks.ATaskTemplFixedData.cbf982ad116dd9265f2735a9357c9b140(Int32 , BinaryWriter , MONSTER_WANTED )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteZONE_VERT(Int32 version, BinaryWriter bw, ZONE_VERT ZONE_VERT)" NewName="Tasks.ATaskTemplFixedData.ce227da332797dbbd7b1c727efa4f804c(Int32 , BinaryWriter , ZONE_VERT )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteTask_Region(Int32 version, BinaryWriter bw, Task_Region location_Task_Region)" NewName="Tasks.ATaskTemplFixedData.ce40e4a9b9056444bf3daa85cacaa18df(Int32 , BinaryWriter , Task_Region )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteTASK_EXPRESSION(Int32 version, BinaryWriter bw, TASK_EXPRESSION TASK_EXPRESSION)" NewName="Tasks.ATaskTemplFixedData.cb3de661b9950422a51338acb4b6ab0d3(Int32 , BinaryWriter , TASK_EXPRESSION )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteMONSTERS_CONTRIB(Int32 version, BinaryWriter bw, MONSTERS_CONTRIB MONSTERS_CONTRIB)" NewName="Tasks.ATaskTemplFixedData.cfb0ddc96426f87b15b0ca4da82e662c1(Int32 , BinaryWriter , MONSTERS_CONTRIB )" />
+<Entry OldName="Tasks.ATaskTemplFixedData.WriteReward(Int32 version, BinaryWriter bw, AWARD_DATA reward)" NewName="Tasks.ATaskTemplFixedData.c56f9b2122823f951bd5bf671c00bee37(Int32 , BinaryWriter , AWARD_DATA )" />
+<Entry OldName="Elements.eListCollection.readValue(BinaryReader br, String type)" NewName="Elements.eListCollection.c8b57fd5b1dce229700a7afd9b3ef7962(BinaryReader , String )" />
+<Entry OldName="Elements.eListCollection.writeValue(BinaryWriter bw, Object value, String type)" NewName="Elements.eListCollection.c36381af0112e5d745a19fd3ccc9611ba(BinaryWriter , Object , String )" />
+<Entry OldName="Elements.eListCollection.loadConfiguration(String file)" NewName="Elements.eListCollection.c93816cc370f6937aa7d544a726e14e2b(String )" />
+<Entry OldName="Elements.eListCollection.loadRules(String file)" NewName="Elements.eListCollection.c66804b00c15d2f49f53748fdfd305acc(String )" />
+<Entry OldName="DataTranslator.ElementsData..ctor()" NewName="A.cc005810ce69d2ea402c5b97244d11095..ctor()" />
+<Entry OldName="DataTranslator.ElementsData.LoadElements(String FilePath)" NewName="A.cc005810ce69d2ea402c5b97244d11095.cb1c47083b2d37c669d2a4dc3634e35fd(String )" />
+<Entry OldName="DataTranslator.ElementsData.CreateElTable(eListCollection e, List`1 el_pattern)" NewName="A.cc005810ce69d2ea402c5b97244d11095.c13284798ee4b93ea5b62cfbb32e47bb5(eListCollection , List`1 )" />
+<Entry OldName="DataTranslator.Form1.open_el_Click(Object sender, EventArgs e)" NewName="DataTranslator.Form1.cbb3283e3cfed6bd32b159ee1739ce387(Object , EventArgs )" />
+<Entry OldName="DataTranslator.Form1.import_el_Click(Object sender, EventArgs e)" NewName="DataTranslator.Form1.cb27a62ed5caa3fa742879860b19d764c(Object , EventArgs )" />
+<Entry OldName="DataTranslator.Form1.open_task_Click(Object sender, EventArgs e)" NewName="DataTranslator.Form1.c9c5fa44b618b9fc8c250acbb9952f359(Object , EventArgs )" />
+<Entry OldName="DataTranslator.Form1.import_task_Click(Object sender, EventArgs e)" NewName="DataTranslator.Form1.c89a9799e11a795754dd929d92178bc22(Object , EventArgs )" />
+<Entry OldName="DataTranslator.Form1.debugBox_TextChanged(Object sender, EventArgs e)" NewName="DataTranslator.Form1.ceb3f61f73092ede6b4526aa2c0403f1d(Object , EventArgs )" />
+<Entry OldName="DataTranslator.Form1.InitializeComponent()" NewName="DataTranslator.Form1.ccba1c6ecb797cf678f1343bca1c384ce()" />
+<Entry OldName="DataTranslator.Program.Main()" NewName="A.c58bcb5fa1253a253eac71a3905222261.c09d751270473a025fdaef4e5738a1c12()" />
+<Entry OldName="DataTranslator.Properties.Resources..ctor()" NewName="A.cf53a843d2e946026c2012e9dae328ef7..ctor()" />
+<Entry OldName="DataTranslator.Properties.Resources.get_ResourceManager()" NewName="A.cf53a843d2e946026c2012e9dae328ef7.get_ResourceManager()" />
+<Entry OldName="DataTranslator.Properties.Resources.get_Culture()" NewName="A.cf53a843d2e946026c2012e9dae328ef7.get_Culture()" />
+<Entry OldName="DataTranslator.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.cf53a843d2e946026c2012e9dae328ef7.set_Culture(CultureInfo value)" />
+<Entry OldName="DataTranslator.ElementsData" NewName="A.cc005810ce69d2ea402c5b97244d11095" />
+<Entry OldName="DataTranslator.Program" NewName="A.c58bcb5fa1253a253eac71a3905222261" />
+<Entry OldName="DataTranslator.Properties.Resources" NewName="A.cf53a843d2e946026c2012e9dae328ef7" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;+__StaticArrayInitTypeSize=116" NewName="A.caa46d3a86fbec15aa5794cf3e320b93a+cc2a13eceaed7cd2e3b089fa84fdea59c" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;" NewName="A.caa46d3a86fbec15aa5794cf3e320b93a" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\ATaskTemplFixedData.cs" NewName="File0" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\CONVERSATION.cs" NewName="File1" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\option.cs" NewName="File2" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\talk_proc.cs" NewName="File3" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\window.cs" NewName="File4" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Elements\eList.cs" NewName="File5" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Elements\eListCollection.cs" NewName="File6" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Elements\eListConversation.cs" NewName="File7" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\ElementsData.cs" NewName="File8" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Form1.cs" NewName="File9" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Form1.Designer.cs" NewName="File10" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Program.cs" NewName="File11" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Properties\Resources.Designer.cs" NewName="File12" />
+<Entry OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Properties\Settings.Designer.cs" NewName="File13" />
+<Assembly Name="DataTranslator"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Tasks.ATaskTemplFixedData" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".ctor" Variables="this;version;BinaryStream;BaseStreamPosition;Nodes;" ParamCnt="5" />
+<Method Token="100663300" Name="get_AuthorText" Variables="this;" ParamCnt="1" />
+<Method Token="100663301" Name="set_AuthorText" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663302" Name="get_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663303" Name="set_ID" Variables="this;value;m_szName;authorText;pwstrDescript;pwstrOkText;pwstrNoText;pwstrTribute;index;dialogText;num2;TalkText;num3;OptionText;" ParamCnt="2" />
+<Method Token="100663304" Name="get_Name" Variables="this;" ParamCnt="1" />
+<Method Token="100663305" Name="set_Name" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663306" Name="Clone" Variables="this;output;bw;binaryStream;" ParamCnt="1" />
+<Method Token="100663307" Name="Load" Variables="this;version;br;stream_position;nodes;m_szName;index;white;num48;num27;num28;num27;num28;num27;num28;num28;j;j;iPremHistoryStageIndex;num29;k;num30;num31;num32;num33;num34;num35;l;m;num36;num37;num37;num38;num39;num40;num41;num42;num43;num44;num45;num44;num45;i;i;i;i;num46;num47;num49;" ParamCnt="5" />
+<Method Token="100663308" Name="Save" Variables="this;version;bw;num29;num30;num28;num29;num30;num28;num28;num28;num29;num30;num30;j;j;num31;k;num32;num33;num34;num35;num36;num37;l;m;num38;num39;num39;num40;num41;num42;num43;num44;num45;num46;num47;num46;num47;i;i;i;i;index;num48;num49;num50;" ParamCnt="3" />
+<Method Token="100663309" Name="decrypt" Variables="key;text;result;dbyte;trimChars;i;expr_20_cp_1;expr_37_cp_1;V_6;" ParamCnt="2" />
+<Method Token="100663310" Name="encrypt" Variables="key;text;length;appendZero;result;dbyte;i;expr_57_cp_1;expr_70_cp_1;" ParamCnt="4" />
+<Method Token="100663311" Name="ByteArray_to_HexString" Variables="value;" ParamCnt="1" />
+<Method Token="100663312" Name="HexString_to_ByteArray" Variables="value;chArray;strArray;numArray;index;" ParamCnt="1" />
+<Method Token="100663313" Name="ByteArray_to_GbkString" Variables="text;chArray;" ParamCnt="1" />
+<Method Token="100663314" Name="GbkString_to_ByteArray" Variables="text;length;numArray;bytes;numArray3;length2;" ParamCnt="2" />
+<Method Token="100663315" Name="ByteArray_to_UnicodeString" Variables="text;chArray;" ParamCnt="1" />
+<Method Token="100663316" Name="UnicodeString_to_ByteArray" Variables="text;length;numArray;bytes;numArray3;length2;" ParamCnt="2" />
+<Method Token="100663317" Name="Readtask_tm" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663318" Name="ReadITEM_WANTED" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663319" Name="ReadAWARD_ITEMS_CAND" Variables="version;br;itemGroup;index;" ParamCnt="2" />
+<Method Token="100663320" Name="ReadTitleAward" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663321" Name="ReadTEAM_MEM_WANTED" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663322" Name="ReadCOMPARE_KEY_VALUE" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663323" Name="ReadPLAYER_WANTED" Variables="version;br;m_PlayerWanted;" ParamCnt="2" />
+<Method Token="100663324" Name="ReadMONSTER_WANTED" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663325" Name="ReadZONE_VERT" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663326" Name="ReadTask_Region" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663327" Name="ReadTASK_EXPRESSION" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663328" Name="ReadMONSTERS_CONTRIB" Variables="version;br;" ParamCnt="2" />
+<Method Token="100663329" Name="ReadReward" Variables="version;br;reward;index;index2;index3;index5;index4;index4;index6;index7;index8;" ParamCnt="2" />
+<Method Token="100663330" Name="Writetask_tm" Variables="version;bw;task_tm;" ParamCnt="3" />
+<Method Token="100663331" Name="WriteITEM_WANTED" Variables="version;bw;item;" ParamCnt="3" />
+<Method Token="100663332" Name="WriteTITLE_AWARD" Variables="version;bw;m_pTitleAward;" ParamCnt="3" />
+<Method Token="100663333" Name="WriteAWARD_ITEMS_CAND" Variables="version;bw;canditems;index;" ParamCnt="3" />
+<Method Token="100663334" Name="WriteTEAM_MEM_WANTED" Variables="version;bw;m_TeamMemsWanted;" ParamCnt="3" />
+<Method Token="100663335" Name="WriteCOMPARE_KEY_VALUE" Variables="version;bw;COMPARE_KEY_VALUE;" ParamCnt="3" />
+<Method Token="100663336" Name="WritePLAYER_WANTED" Variables="version;bw;m_PlayerWanted;" ParamCnt="3" />
+<Method Token="100663337" Name="WriteMONSTER_WANTED" Variables="version;bw;m_MonsterWanted;" ParamCnt="3" />
+<Method Token="100663338" Name="WriteZONE_VERT" Variables="version;bw;ZONE_VERT;" ParamCnt="3" />
+<Method Token="100663339" Name="WriteTask_Region" Variables="version;bw;location_Task_Region;" ParamCnt="3" />
+<Method Token="100663340" Name="WriteTASK_EXPRESSION" Variables="version;bw;TASK_EXPRESSION;" ParamCnt="3" />
+<Method Token="100663341" Name="WriteMONSTERS_CONTRIB" Variables="version;bw;MONSTERS_CONTRIB;" ParamCnt="3" />
+<Method Token="100663342" Name="WriteReward" Variables="version;bw;reward;index;index2;index3;index5;index4;index4;index6;index7;index8;" ParamCnt="3" />
+<Field Token="67108865" Name="m_ID" />
+<Field Token="67108866" Name="m_szName" />
+<Field Token="67108867" Name="m_bHasSign" />
+<Field Token="67108868" Name="m_pszSignature" />
+<Field Token="67108869" Name="m_ulType" />
+<Field Token="67108870" Name="m_ulTimeLimit" />
+<Field Token="67108871" Name="m_bOfflineFail" />
+<Field Token="67108872" Name="m_bAbsFail" />
+<Field Token="67108873" Name="m_tmAbsFailTime" />
+<Field Token="67108874" Name="m_bItemNotTakeOff" />
+<Field Token="67108875" Name="m_bAbsTime" />
+<Field Token="67108876" Name="m_ulTimetable" />
+<Field Token="67108877" Name="m_tmType" />
+<Field Token="67108878" Name="m_tmStart" />
+<Field Token="67108879" Name="m_tmEnd" />
+<Field Token="67108880" Name="m_lAvailFrequency" />
+<Field Token="67108881" Name="m_lPeriodLimit" />
+<Field Token="67108882" Name="m_bChooseOne" />
+<Field Token="67108883" Name="m_bRandOne" />
+<Field Token="67108884" Name="m_bExeChildInOrder" />
+<Field Token="67108885" Name="m_bParentAlsoFail" />
+<Field Token="67108886" Name="m_bParentAlsoSucc" />
+<Field Token="67108887" Name="m_bCanGiveUp" />
+<Field Token="67108888" Name="m_bCanRedo" />
+<Field Token="67108889" Name="m_bCanRedoAfterFailure" />
+<Field Token="67108890" Name="m_bClearAsGiveUp" />
+<Field Token="67108891" Name="m_bNeedRecord" />
+<Field Token="67108892" Name="m_bFailAsPlayerDie" />
+<Field Token="67108893" Name="m_ulMaxReceiver" />
+<Field Token="67108894" Name="m_bDelvInZone" />
+<Field Token="67108895" Name="m_ulDelvWorld" />
+<Field Token="67108896" Name="m_ulDelvRegionCnt" />
+<Field Token="67108897" Name="m_pDelvRegion" />
+<Field Token="67108898" Name="m_bEnterRegionFail" />
+<Field Token="67108899" Name="m_ulEnterRegionWorld" />
+<Field Token="67108900" Name="m_ulEnterRegionCnt" />
+<Field Token="67108901" Name="m_pEnterRegion" />
+<Field Token="67108902" Name="m_bLeaveRegionFail" />
+<Field Token="67108903" Name="m_ulLeaveRegionWorld" />
+<Field Token="67108904" Name="m_ulLeaveRegionCnt" />
+<Field Token="67108905" Name="m_pLeaveRegion" />
+<Field Token="67108906" Name="m_bLeaveForceFail" />
+<Field Token="67108907" Name="m_bTransTo" />
+<Field Token="67108908" Name="m_ulTransWldId" />
+<Field Token="67108909" Name="m_TransPt" />
+<Field Token="67108910" Name="m_lMonsCtrl" />
+<Field Token="67108911" Name="m_bTrigCtrl" />
+<Field Token="67108912" Name="m_bAutoDeliver" />
+<Field Token="67108913" Name="m_bDisplayInExclusiveUI" />
+<Field Token="67108914" Name="m_bReadyToNotifyServer" />
+<Field Token="67108915" Name="m_bUsedInTokenShop" />
+<Field Token="67108916" Name="m_bDeathTrig" />
+<Field Token="67108917" Name="m_bClearAcquired" />
+<Field Token="67108918" Name="m_ulSuitableLevel" />
+<Field Token="67108919" Name="m_bShowPrompt" />
+<Field Token="67108920" Name="m_bKeyTask" />
+<Field Token="67108921" Name="m_ulDelvNPC" />
+<Field Token="67108922" Name="m_ulAwardNPC" />
+<Field Token="67108923" Name="m_bSkillTask" />
+<Field Token="67108924" Name="m_bCanSeekOut" />
+<Field Token="67108925" Name="m_bShowDirection" />
+<Field Token="67108926" Name="m_bMarriage" />
+<Field Token="67108927" Name="m_ulChangeKeyCnt" />
+<Field Token="67108928" Name="m_plChangeKey" />
+<Field Token="67108929" Name="m_plChangeKeyValue" />
+<Field Token="67108930" Name="m_pbChangeType" />
+<Field Token="67108931" Name="m_bSwitchSceneFail" />
+<Field Token="67108932" Name="m_bHidden" />
+<Field Token="67108933" Name="m_bDeliverySkill" />
+<Field Token="67108934" Name="m_iDeliveredSkillID" />
+<Field Token="67108935" Name="m_iDeliveredSkillLevel" />
+<Field Token="67108936" Name="m_bShowGfxFinished" />
+<Field Token="67108937" Name="m_bChangePQRanking" />
+<Field Token="67108938" Name="m_bCompareItemAndInventory" />
+<Field Token="67108939" Name="m_ulInventorySlotNum" />
+<Field Token="67108940" Name="TowerTask" />
+<Field Token="67108941" Name="m_bPQTask" />
+<Field Token="67108942" Name="m_ulPQExpCnt" />
+<Field Token="67108943" Name="m_pszPQExp" />
+<Field Token="67108944" Name="m_pPQExpArr" />
+<Field Token="67108945" Name="m_bPQSubTask" />
+<Field Token="67108946" Name="m_bClearContrib" />
+<Field Token="67108947" Name="m_ulMonsterContribCnt" />
+<Field Token="67108948" Name="m_MonstersContrib" />
+<Field Token="67108949" Name="m_iPremNeedRecordTasksNum" />
+<Field Token="67108950" Name="m_bShowByNeedRecordTasksNum" />
+<Field Token="67108951" Name="m_iPremiseFactionContrib" />
+<Field Token="67108952" Name="m_bShowByFactionContrib" />
+<Field Token="67108953" Name="m_bAccountTaskLimit" />
+<Field Token="67108954" Name="m_bRoleTaskLimit" />
+<Field Token="67108955" Name="m_ulAccountTaskLimitCnt" />
+<Field Token="67108956" Name="m_bLeaveFactionFail" />
+<Field Token="67108957" Name="m_bNotIncCntWhenFailed" />
+<Field Token="67108958" Name="m_bNotClearItemWhenFailed" />
+<Field Token="67108959" Name="m_bDisplayInTitleTaskUI" />
+<Field Token="67108960" Name="m_ucPremiseTransformedForm" />
+<Field Token="67108961" Name="m_bShowByTransformed" />
+<Field Token="67108962" Name="m_ulPremise_Lev_Min" />
+<Field Token="67108963" Name="m_ulPremise_Lev_Max" />
+<Field Token="67108964" Name="m_bPremCheckMaxHistoryLevel" />
+<Field Token="67108965" Name="m_bPremCheckReincarnation" />
+<Field Token="67108966" Name="m_bShowByLev" />
+<Field Token="67108967" Name="m_ulPremReincarnationMin" />
+<Field Token="67108968" Name="m_ulPremReincarnationMax" />
+<Field Token="67108969" Name="m_bShowByReincarnation" />
+<Field Token="67108970" Name="m_bPremCheckRealmLevel" />
+<Field Token="67108971" Name="m_ulPremRealmLevelMin" />
+<Field Token="67108972" Name="m_ulPremRealmLevelMax" />
+<Field Token="67108973" Name="m_bPremCheckRealmExpFull" />
+<Field Token="67108974" Name="m_bShowByRealmLevel" />
+<Field Token="67108975" Name="m_ulPremItems" />
+<Field Token="67108976" Name="m_PremItems" />
+<Field Token="67108977" Name="m_bShowByItems" />
+<Field Token="67108978" Name="m_bPremItemsAnyOne" />
+<Field Token="67108979" Name="m_ulGivenItems" />
+<Field Token="67108980" Name="m_ulGivenCmnCount" />
+<Field Token="67108981" Name="m_ulGivenTskCount" />
+<Field Token="67108982" Name="m_GivenItems" />
+<Field Token="67108983" Name="m_ulPremise_Deposit" />
+<Field Token="67108984" Name="m_bShowByDeposit" />
+<Field Token="67108985" Name="m_lPremise_Reputation" />
+<Field Token="67108986" Name="m_lPremise_RepuMax" />
+<Field Token="67108987" Name="m_bShowByRepu" />
+<Field Token="67108988" Name="m_ulPremise_Task_Count" />
+<Field Token="67108989" Name="m_ulPremise_Tasks" />
+<Field Token="67108990" Name="m_bShowByPreTask" />
+<Field Token="67108991" Name="m_ulPremise_Task_Least_Num" />
+<Field Token="67108992" Name="m_ulPremise_Period" />
+<Field Token="67108993" Name="m_bShowByPeriod" />
+<Field Token="67108994" Name="m_ulPremise_Faction" />
+<Field Token="67108995" Name="m_iPremise_FactionRole" />
+<Field Token="67108996" Name="m_bShowByFaction" />
+<Field Token="67108997" Name="m_ulGender" />
+<Field Token="67108998" Name="m_bShowByGender" />
+<Field Token="67108999" Name="m_Occupations" />
+<Field Token="67109000" Name="m_ulOccupations" />
+<Field Token="67109001" Name="m_bShowByOccup" />
+<Field Token="67109002" Name="m_bPremise_Spouse" />
+<Field Token="67109003" Name="m_bShowBySpouse" />
+<Field Token="67109004" Name="m_bPremiseWeddingOwner" />
+<Field Token="67109005" Name="m_bShowByWeddingOwner" />
+<Field Token="67109006" Name="m_bGM" />
+<Field Token="67109007" Name="m_bShieldUser" />
+<Field Token="67109008" Name="m_bShowByRMB" />
+<Field Token="67109009" Name="m_ulPremRMBMin" />
+<Field Token="67109010" Name="m_ulPremRMBMax" />
+<Field Token="67109011" Name="m_bCharTime" />
+<Field Token="67109012" Name="m_bShowByCharTime" />
+<Field Token="67109013" Name="m_iCharStartTime" />
+<Field Token="67109014" Name="m_iCharEndTime" />
+<Field Token="67109015" Name="m_tmCharEndTime" />
+<Field Token="67109016" Name="m_ulCharTimeGreaterThan" />
+<Field Token="67109017" Name="m_ulPremise_Cotask" />
+<Field Token="67109018" Name="m_ulCoTaskCond" />
+<Field Token="67109019" Name="m_ulMutexTaskCount" />
+<Field Token="67109020" Name="m_ulMutexTasks" />
+<Field Token="67109021" Name="m_lSkillLev" />
+<Field Token="67109022" Name="m_DynTaskType" />
+<Field Token="67109023" Name="m_ulSpecialAward" />
+<Field Token="67109024" Name="m_bTeamwork" />
+<Field Token="67109025" Name="m_bRcvByTeam" />
+<Field Token="67109026" Name="m_bSharedTask" />
+<Field Token="67109027" Name="m_bSharedAchieved" />
+<Field Token="67109028" Name="m_bCheckTeammate" />
+<Field Token="67109029" Name="m_fTeammateDist" />
+<Field Token="67109030" Name="m_bAllFail" />
+<Field Token="67109031" Name="m_bCapFail" />
+<Field Token="67109032" Name="m_bCapSucc" />
+<Field Token="67109033" Name="m_fSuccDist" />
+<Field Token="67109034" Name="m_bDismAsSelfFail" />
+<Field Token="67109035" Name="m_bRcvChckMem" />
+<Field Token="67109036" Name="m_fRcvMemDist" />
+<Field Token="67109037" Name="m_bCntByMemPos" />
+<Field Token="67109038" Name="m_fCntMemDist" />
+<Field Token="67109039" Name="m_bAllSucc" />
+<Field Token="67109040" Name="m_bCoupleOnly" />
+<Field Token="67109041" Name="m_bDistinguishedOcc" />
+<Field Token="67109042" Name="m_ulTeamMemsWanted" />
+<Field Token="67109043" Name="m_TeamMemsWanted" />
+<Field Token="67109044" Name="m_bShowByTeam" />
+<Field Token="67109045" Name="m_bPremNeedComp" />
+<Field Token="67109046" Name="m_nPremExp1AndOrExp2" />
+<Field Token="67109047" Name="m_Prem1KeyValue" />
+<Field Token="67109048" Name="m_Prem2KeyValue" />
+<Field Token="67109049" Name="m_bPremCheckForce" />
+<Field Token="67109050" Name="m_iPremForce" />
+<Field Token="67109051" Name="m_bShowByForce" />
+<Field Token="67109052" Name="m_iPremForceReputation" />
+<Field Token="67109053" Name="m_bShowByForceReputation" />
+<Field Token="67109054" Name="m_iPremForceContribution" />
+<Field Token="67109055" Name="m_bShowByForceContribution" />
+<Field Token="67109056" Name="m_iPremForceExp" />
+<Field Token="67109057" Name="m_bShowByForceExp" />
+<Field Token="67109058" Name="m_iPremForceSP" />
+<Field Token="67109059" Name="m_bShowByForceSP" />
+<Field Token="67109060" Name="m_iPremForceActivityLevel" />
+<Field Token="67109061" Name="m_bShowByForceActivityLevel" />
+<Field Token="67109062" Name="m_bPremIsKing" />
+<Field Token="67109063" Name="m_bShowByKing" />
+<Field Token="67109064" Name="m_bPremNotInTeam" />
+<Field Token="67109065" Name="m_bShowByNotInTeam" />
+<Field Token="67109066" Name="m_iPremTitleNumTotal" />
+<Field Token="67109067" Name="m_iPremTitleNumRequired" />
+<Field Token="67109068" Name="m_PremTitles" />
+<Field Token="67109069" Name="m_bShowByTitle" />
+<Field Token="67109070" Name="m_iPremHistoryStageIndex" />
+<Field Token="67109071" Name="m_bShowByHistoryStage" />
+<Field Token="67109072" Name="m_ulPremGeneralCardCount" />
+<Field Token="67109073" Name="m_bShowByGeneralCard" />
+<Field Token="67109074" Name="m_iPremGeneralCardRank" />
+<Field Token="67109075" Name="m_ulPremGeneralCardRankCount" />
+<Field Token="67109076" Name="m_bShowByGeneralCardRank" />
+<Field Token="67109077" Name="PremiseIconStateID" />
+<Field Token="67109078" Name="ShowByIconStateID" />
+<Field Token="67109079" Name="VIPLevelMin" />
+<Field Token="67109080" Name="VIPLevelMax" />
+<Field Token="67109081" Name="ShowByVIPLevel" />
+<Field Token="67109082" Name="m_enumMethod" />
+<Field Token="67109083" Name="m_enumFinishType" />
+<Field Token="67109084" Name="m_ulPlayerWanted" />
+<Field Token="67109085" Name="m_PlayerWanted" />
+<Field Token="67109086" Name="m_ulMonsterWanted" />
+<Field Token="67109087" Name="m_MonsterWanted" />
+<Field Token="67109088" Name="m_ulItemsWanted" />
+<Field Token="67109089" Name="m_ItemsWanted" />
+<Field Token="67109090" Name="m_ulGoldWanted" />
+<Field Token="67109091" Name="m_iFactionContribWanted" />
+<Field Token="67109092" Name="m_iFactionExpContribWanted" />
+<Field Token="67109093" Name="m_ulNPCToProtect" />
+<Field Token="67109094" Name="m_ulProtectTimeLen" />
+<Field Token="67109095" Name="m_ulNPCMoving" />
+<Field Token="67109096" Name="m_ulNPCDestSite" />
+<Field Token="67109097" Name="m_pReachSite" />
+<Field Token="67109098" Name="m_ulReachSiteCnt" />
+<Field Token="67109099" Name="m_ulReachSiteId" />
+<Field Token="67109100" Name="m_ulWaitTime" />
+<Field Token="67109101" Name="m_TreasureStartZone" />
+<Field Token="67109102" Name="m_ucZonesNumX" />
+<Field Token="67109103" Name="m_ucZonesNumZ" />
+<Field Token="67109104" Name="m_ucZoneSide" />
+<Field Token="67109105" Name="m_pLeaveSite" />
+<Field Token="67109106" Name="m_ulLeaveSiteCnt" />
+<Field Token="67109107" Name="m_ulLeaveSiteId" />
+<Field Token="67109108" Name="m_bFinNeedComp" />
+<Field Token="67109109" Name="m_nFinExp1AndOrExp2" />
+<Field Token="67109110" Name="m_Fin1KeyValue" />
+<Field Token="67109111" Name="m_Fin2KeyValue" />
+<Field Token="67109112" Name="m_ulExpCnt" />
+<Field Token="67109113" Name="m_pszExp" />
+<Field Token="67109114" Name="m_pExpArr" />
+<Field Token="67109115" Name="m_ulTaskCharCnt" />
+<Field Token="67109116" Name="m_pTaskChar" />
+<Field Token="67109117" Name="m_ucTransformedForm" />
+<Field Token="67109118" Name="m_ulReachLevel" />
+<Field Token="67109119" Name="m_ulReachReincarnationCount" />
+<Field Token="67109120" Name="m_ulReachRealmLevel" />
+<Field Token="67109121" Name="m_uiEmotion" />
+<Field Token="67109122" Name="TMIconStateID" />
+<Field Token="67109123" Name="m_ulAwardType_S" />
+<Field Token="67109124" Name="m_ulAwardType_F" />
+<Field Token="67109125" Name="m_Award_S" />
+<Field Token="67109126" Name="m_Award_F" />
+<Field Token="67109127" Name="m_AwByRatio_S_m_ulScales" />
+<Field Token="67109128" Name="m_AwByRatio_S_m_Ratios" />
+<Field Token="67109129" Name="m_AwByRatio_S" />
+<Field Token="67109130" Name="m_AwByRatio_F_m_ulScales" />
+<Field Token="67109131" Name="m_AwByRatio_F_m_Ratios" />
+<Field Token="67109132" Name="m_AwByRatio_F" />
+<Field Token="67109133" Name="AwByItems_S_m_ulScales" />
+<Field Token="67109134" Name="AwByItems_S_m_ulItemId" />
+<Field Token="67109135" Name="AwByItems_S_m_Counts" />
+<Field Token="67109136" Name="m_AwByItems_S" />
+<Field Token="67109137" Name="AwByItems_F_m_ulScales" />
+<Field Token="67109138" Name="AwByItems_F_m_ulItemId" />
+<Field Token="67109139" Name="AwByItems_F_m_Counts" />
+<Field Token="67109140" Name="m_AwByItems_F" />
+<Field Token="67109141" Name="m_ulParent" />
+<Field Token="67109142" Name="m_ulPrevSibling" />
+<Field Token="67109143" Name="m_ulNextSibling" />
+<Field Token="67109144" Name="m_ulFirstChild" />
+<Field Token="67109145" Name="m_bIsLibraryTask" />
+<Field Token="67109146" Name="m_fLibraryTasksProbability" />
+<Field Token="67109147" Name="m_bIsUniqueStorageTask" />
+<Field Token="67109148" Name="WorldContrib" />
+<Field Token="67109149" Name="conversation" />
+<Field Token="67109150" Name="sub_quest_count" />
+<Field Token="67109151" Name="sub_quests" />
+<Field Token="67109152" Name="m_pszSignaturePointer" />
+<Field Token="67109153" Name="m_ulTimetablePointer" />
+<Field Token="67109154" Name="m_pDelvRegionPointer" />
+<Field Token="67109155" Name="m_pEnterRegionPointer" />
+<Field Token="67109156" Name="m_pLeaveRegionPointer" />
+<Field Token="67109157" Name="m_ulChangeKeyPointer" />
+<Field Token="67109158" Name="m_pszPQExpPointer" />
+<Field Token="67109159" Name="m_MonstersContribPointer" />
+<Field Token="67109160" Name="m_PremItemsPointer" />
+<Field Token="67109161" Name="m_GivenItemsPointer" />
+<Field Token="67109162" Name="m_TeamMemsWantedPointer" />
+<Field Token="67109163" Name="m_PremTitlesPointer" />
+<Field Token="67109164" Name="m_PlayerWantedPointer" />
+<Field Token="67109165" Name="m_MonsterWantedPointer" />
+<Field Token="67109166" Name="m_ItemsWantedPointer" />
+<Field Token="67109167" Name="m_pReachSitePointer" />
+<Field Token="67109168" Name="m_pLeaveSitePointer" />
+<Field Token="67109169" Name="m_pszExpPointer" />
+<Field Token="67109170" Name="m_pTaskCharPointer" />
+<Field Token="67109171" Name="m_Award_SPointer" />
+<Field Token="67109172" Name="m_Award_FPointer" />
+<Field Token="67109173" Name="m_AwByRatio_SPointer" />
+<Field Token="67109174" Name="m_AwByRatio_FPointer" />
+<Field Token="67109175" Name="m_AwByItems_SPointer" />
+<Field Token="67109176" Name="m_AwByItems_FPointer" />
+<Type Token="33554436" Name="Tasks.AWARD_DATA" />
+<Method Token="100663344" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109177" Name="m_ulGoldNum" />
+<Field Token="67109178" Name="m_ulExp" />
+<Field Token="67109179" Name="m_ulRealmExp" />
+<Field Token="67109180" Name="m_bExpandRealmLevelMax" />
+<Field Token="67109181" Name="m_ulNewTask" />
+<Field Token="67109182" Name="m_ulSP" />
+<Field Token="67109183" Name="m_lReputation" />
+<Field Token="67109184" Name="m_ulNewPeriod" />
+<Field Token="67109185" Name="m_ulNewRelayStation" />
+<Field Token="67109186" Name="m_ulStorehouseSize" />
+<Field Token="67109187" Name="m_ulStorehouseSize2" />
+<Field Token="67109188" Name="m_ulStorehouseSize3" />
+<Field Token="67109189" Name="m_ulStorehouseSize4" />
+<Field Token="67109190" Name="m_lInventorySize" />
+<Field Token="67109191" Name="m_ulPetInventorySize" />
+<Field Token="67109192" Name="m_ulFuryULimit" />
+<Field Token="67109193" Name="m_ulTransWldId" />
+<Field Token="67109194" Name="m_TransPt" />
+<Field Token="67109195" Name="m_lMonsCtrl" />
+<Field Token="67109196" Name="m_bTrigCtrl" />
+<Field Token="67109197" Name="m_bUseLevCo" />
+<Field Token="67109198" Name="m_bDivorce" />
+<Field Token="67109199" Name="m_bSendMsg" />
+<Field Token="67109200" Name="m_nMsgChannel" />
+<Field Token="67109201" Name="m_ulCandItems" />
+<Field Token="67109202" Name="m_CandItems" />
+<Field Token="67109203" Name="m_ulSummonedMonsters" />
+<Field Token="67109204" Name="m_SummonedMonsters" />
+<Field Token="67109205" Name="m_bAwardDeath" />
+<Field Token="67109206" Name="m_bAwardDeathWithLoss" />
+<Field Token="67109207" Name="m_ulDividend" />
+<Field Token="67109208" Name="m_bAwardSkill" />
+<Field Token="67109209" Name="m_iAwardSkillID" />
+<Field Token="67109210" Name="m_iAwardSkillLevel" />
+<Field Token="67109211" Name="AwardSoloTowerChallengeScore" />
+<Field Token="67109212" Name="m_ulSpecifyContribTaskID" />
+<Field Token="67109213" Name="m_ulSpecifyContribSubTaskID" />
+<Field Token="67109214" Name="m_ulSpecifyContrib" />
+<Field Token="67109215" Name="m_ulContrib" />
+<Field Token="67109216" Name="m_ulRandContrib" />
+<Field Token="67109217" Name="m_ulLowestcontrib" />
+<Field Token="67109218" Name="m_iFactionContrib" />
+<Field Token="67109219" Name="m_iFactionExpContrib" />
+<Field Token="67109220" Name="m_ulPQRankingAwardCnt" />
+<Field Token="67109221" Name="m_PQRankingAward" />
+<Field Token="67109222" Name="m_ulChangeKeyCnt" />
+<Field Token="67109223" Name="m_plChangeKey" />
+<Field Token="67109224" Name="m_plChangeKeyValue" />
+<Field Token="67109225" Name="m_pbChangeType" />
+<Field Token="67109226" Name="m_ulHistoryChangeCnt" />
+<Field Token="67109227" Name="m_plHistoryChangeKey" />
+<Field Token="67109228" Name="m_plHistoryChangeKeyValue" />
+<Field Token="67109229" Name="m_pbHistoryChangeType" />
+<Field Token="67109230" Name="m_bMulti" />
+<Field Token="67109231" Name="m_nNumType" />
+<Field Token="67109232" Name="m_lNum" />
+<Field Token="67109233" Name="m_ulDisplayKeyCnt" />
+<Field Token="67109234" Name="m_plDisplayKey" />
+<Field Token="67109235" Name="m_ulExpCnt" />
+<Field Token="67109236" Name="m_pszExp" />
+<Field Token="67109237" Name="m_pExpArr" />
+<Field Token="67109238" Name="m_ulTaskCharCnt" />
+<Field Token="67109239" Name="m_pTaskChar" />
+<Field Token="67109240" Name="m_iForceContribution" />
+<Field Token="67109241" Name="m_iForceReputation" />
+<Field Token="67109242" Name="m_iForceActivity" />
+<Field Token="67109243" Name="m_iForceSetRepu" />
+<Field Token="67109244" Name="m_iTaskLimit" />
+<Field Token="67109245" Name="m_ulTitleNum" />
+<Field Token="67109246" Name="m_pTitleAward" />
+<Field Token="67109247" Name="m_iLeaderShip" />
+<Field Token="67109248" Name="AwardWorldContrib" />
+<Field Token="67109249" Name="m_CandItemsPointer" />
+<Field Token="67109250" Name="m_MonstersPointer" />
+<Field Token="67109251" Name="m_RankingAwardPointer" />
+<Field Token="67109252" Name="m_ulChangeKeyPointer" />
+<Field Token="67109253" Name="m_plHistoryChangeKeyPointer" />
+<Field Token="67109254" Name="m_plHistoryChangeKeyValuePointer" />
+<Field Token="67109255" Name="m_pbHistoryChangeTypePointer" />
+<Field Token="67109256" Name="m_ulDisplayKeyCntPointer" />
+<Field Token="67109257" Name="m_pszExpPointer" />
+<Field Token="67109258" Name="m_pTaskCharPointer" />
+<Field Token="67109259" Name="m_pTitleAwardPointer" />
+<Type Token="33554437" Name="Tasks.AWARD_ITEMS_CAND" />
+<Method Token="100663345" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109260" Name="m_ulAwardItems" />
+<Field Token="67109261" Name="m_AwardItems" />
+<Field Token="67109262" Name="m_bRandChoose" />
+<Type Token="33554439" Name="Tasks.AWARD_MONSTERS_SUMMONED" />
+<Method Token="100663352" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109264" Name="m_bRandChoose" />
+<Field Token="67109265" Name="m_ulSummonRadius" />
+<Field Token="67109266" Name="m_bDeathDisappear" />
+<Field Token="67109267" Name="m_Monsters" />
+<Type Token="33554440" Name="Tasks.AWARD_PQ_RANKING" />
+<Method Token="100663353" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109268" Name="m_bAwardByProf" />
+<Field Token="67109269" Name="m_RankingAward" />
+<Type Token="33554441" Name="Tasks.COMPARE_KEY_VALUE" />
+<Method Token="100663354" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109270" Name="nLeftType" />
+<Field Token="67109271" Name="lLeftNum" />
+<Field Token="67109272" Name="nCompOper" />
+<Field Token="67109273" Name="nRightType" />
+<Field Token="67109274" Name="lRightNum" />
+<Type Token="33554442" Name="Tasks.CONVERSATION" />
+<Method Token="100663355" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663356" Name="get_Descript" Variables="this;" ParamCnt="1" />
+<Method Token="100663357" Name="set_Descript" Variables="this;value;trimChars;" ParamCnt="2" />
+<Method Token="100663358" Name="get_OkText" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="set_OkText" Variables="this;value;trimChars;" ParamCnt="2" />
+<Method Token="100663360" Name="get_NoText" Variables="this;" ParamCnt="1" />
+<Method Token="100663361" Name="set_NoText" Variables="this;value;trimChars;" ParamCnt="2" />
+<Method Token="100663362" Name="get_Tribute" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name="set_Tribute" Variables="this;value;trimChars;" ParamCnt="2" />
+<Field Token="67109275" Name="crypt_key" />
+<Field Token="67109276" Name="m_pwstrDescript_len" />
+<Field Token="67109277" Name="m_pwstrDescript" />
+<Field Token="67109278" Name="m_pwstrOkText_len" />
+<Field Token="67109279" Name="m_pwstrOkText" />
+<Field Token="67109280" Name="m_pwstrNoText_len" />
+<Field Token="67109281" Name="m_pwstrNoText" />
+<Field Token="67109282" Name="m_pwstrTribute_len" />
+<Field Token="67109283" Name="m_pwstrTribute" />
+<Field Token="67109284" Name="talk_procs" />
+<Type Token="33554443" Name="Tasks.ITEM_WANTED" />
+<Method Token="100663364" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109285" Name="m_ulItemTemplId" />
+<Field Token="67109286" Name="m_bCommonItem" />
+<Field Token="67109287" Name="m_ulItemNum" />
+<Field Token="67109288" Name="m_fProb" />
+<Field Token="67109289" Name="m_lPeriod" />
+<Type Token="33554444" Name="Tasks.Kill_Player_Requirements" />
+<Method Token="100663365" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109290" Name="m_ulOccupations" />
+<Field Token="67109291" Name="m_iMinLevel" />
+<Field Token="67109292" Name="m_iMaxLevel" />
+<Field Token="67109293" Name="m_iGender" />
+<Field Token="67109294" Name="m_iForce" />
+<Type Token="33554445" Name="Tasks.MONSTERS_CONTRIB" />
+<Method Token="100663366" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109295" Name="m_ulMonsterTemplId" />
+<Field Token="67109296" Name="m_iWholeContrib" />
+<Field Token="67109297" Name="m_iShareContrib" />
+<Field Token="67109298" Name="m_iPersonalWholeContrib" />
+<Type Token="33554446" Name="Tasks.MONSTERS_SUMMONED" />
+<Method Token="100663367" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109299" Name="m_ulMonsterTemplId" />
+<Field Token="67109300" Name="m_ulMonsterNum" />
+<Field Token="67109301" Name="m_fSummonProb" />
+<Field Token="67109302" Name="m_lPeriod" />
+<Type Token="33554448" Name="Tasks.MONSTER_WANTED" />
+<Method Token="100663375" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109305" Name="m_ulMonsterTemplId" />
+<Field Token="67109306" Name="m_ulMonsterNum" />
+<Field Token="67109307" Name="m_ulDropItemId" />
+<Field Token="67109308" Name="m_ulDropItemCount" />
+<Field Token="67109309" Name="m_bDropCmnItem" />
+<Field Token="67109310" Name="m_fDropProb" />
+<Field Token="67109311" Name="m_bKillerLev" />
+<Field Token="67109312" Name="m_iDPH" />
+<Field Token="67109313" Name="m_iDPS" />
+<Type Token="33554449" Name="Tasks.option" />
+<Method Token="100663376" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663377" Name="get_optiontext" Variables="this;" ParamCnt="1" />
+<Method Token="100663378" Name="set_optiontext" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109314" Name="crypt_key" />
+<Field Token="67109315" Name="param" />
+<Field Token="67109316" Name="text" />
+<Field Token="67109317" Name="id" />
+<Type Token="33554451" Name="Tasks.PLAYER_WANTED" />
+<Method Token="100663382" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109319" Name="m_ulPlayerNum" />
+<Field Token="67109320" Name="m_ulDropItemId" />
+<Field Token="67109321" Name="m_ulDropItemCount" />
+<Field Token="67109322" Name="m_bDropCmnItem" />
+<Field Token="67109323" Name="m_fDropProb" />
+<Field Token="67109324" Name="m_Requirements" />
+<Type Token="33554452" Name="Tasks.RANKING_AWARD" />
+<Method Token="100663383" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109325" Name="m_iRankingStart" />
+<Field Token="67109326" Name="m_iRankingEnd" />
+<Field Token="67109327" Name="m_bCommonItem" />
+<Field Token="67109328" Name="m_ulAwardItemId" />
+<Field Token="67109329" Name="m_ulAwardItemNum" />
+<Field Token="67109330" Name="m_lPeriod" />
+<Type Token="33554454" Name="Tasks.talk_proc" />
+<Method Token="100663391" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663392" Name="get_DialogText" Variables="this;" ParamCnt="1" />
+<Method Token="100663393" Name="set_DialogText" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109337" Name="crypt_key" />
+<Field Token="67109338" Name="id_talk" />
+<Field Token="67109339" Name="text" />
+<Field Token="67109340" Name="num_window" />
+<Field Token="67109341" Name="windows" />
+<Type Token="33554455" Name="Tasks.TASK_EXPRESSION" />
+<Method Token="100663394" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109342" Name="type_1" />
+<Field Token="67109343" Name="value_1" />
+<Field Token="67109344" Name="type_2" />
+<Field Token="67109345" Name="value_2" />
+<Field Token="67109346" Name="type_3" />
+<Field Token="67109347" Name="value_3" />
+<Field Token="67109348" Name="type_4" />
+<Field Token="67109349" Name="value_4" />
+<Field Token="67109350" Name="type_5" />
+<Field Token="67109351" Name="value_5" />
+<Field Token="67109352" Name="type_6" />
+<Field Token="67109353" Name="value_6" />
+<Field Token="67109354" Name="type_7" />
+<Field Token="67109355" Name="value_7" />
+<Field Token="67109356" Name="type_8" />
+<Field Token="67109357" Name="value_8" />
+<Field Token="67109358" Name="type_9" />
+<Field Token="67109359" Name="value_9" />
+<Field Token="67109360" Name="type_10" />
+<Field Token="67109361" Name="value_10" />
+<Field Token="67109362" Name="type_11" />
+<Field Token="67109363" Name="value_11" />
+<Field Token="67109364" Name="type_12" />
+<Field Token="67109365" Name="value_12" />
+<Field Token="67109366" Name="type_13" />
+<Field Token="67109367" Name="value_13" />
+<Field Token="67109368" Name="type_14" />
+<Field Token="67109369" Name="value_14" />
+<Field Token="67109370" Name="type_15" />
+<Field Token="67109371" Name="value_15" />
+<Field Token="67109372" Name="type_16" />
+<Field Token="67109373" Name="value_16" />
+<Field Token="67109374" Name="type_17" />
+<Field Token="67109375" Name="value_17" />
+<Field Token="67109376" Name="type_18" />
+<Field Token="67109377" Name="value_18" />
+<Field Token="67109378" Name="type_19" />
+<Field Token="67109379" Name="value_19" />
+<Field Token="67109380" Name="type_20" />
+<Field Token="67109381" Name="value_20" />
+<Field Token="67109382" Name="type_21" />
+<Field Token="67109383" Name="value_21" />
+<Field Token="67109384" Name="type_22" />
+<Field Token="67109385" Name="value_22" />
+<Field Token="67109386" Name="type_23" />
+<Field Token="67109387" Name="value_23" />
+<Field Token="67109388" Name="type_24" />
+<Field Token="67109389" Name="value_24" />
+<Field Token="67109390" Name="type_25" />
+<Field Token="67109391" Name="value_25" />
+<Field Token="67109392" Name="type_26" />
+<Field Token="67109393" Name="value_26" />
+<Field Token="67109394" Name="type_27" />
+<Field Token="67109395" Name="value_27" />
+<Field Token="67109396" Name="type_28" />
+<Field Token="67109397" Name="value_28" />
+<Field Token="67109398" Name="type_29" />
+<Field Token="67109399" Name="value_29" />
+<Field Token="67109400" Name="type_30" />
+<Field Token="67109401" Name="value_30" />
+<Field Token="67109402" Name="type_31" />
+<Field Token="67109403" Name="value_31" />
+<Field Token="67109404" Name="type_32" />
+<Field Token="67109405" Name="value_32" />
+<Field Token="67109406" Name="type_33" />
+<Field Token="67109407" Name="value_33" />
+<Field Token="67109408" Name="type_34" />
+<Field Token="67109409" Name="value_34" />
+<Field Token="67109410" Name="type_35" />
+<Field Token="67109411" Name="value_35" />
+<Field Token="67109412" Name="type_36" />
+<Field Token="67109413" Name="value_36" />
+<Field Token="67109414" Name="type_37" />
+<Field Token="67109415" Name="value_37" />
+<Field Token="67109416" Name="type_38" />
+<Field Token="67109417" Name="value_38" />
+<Field Token="67109418" Name="type_39" />
+<Field Token="67109419" Name="value_39" />
+<Field Token="67109420" Name="type_40" />
+<Field Token="67109421" Name="value_40" />
+<Field Token="67109422" Name="type_41" />
+<Field Token="67109423" Name="value_41" />
+<Field Token="67109424" Name="type_42" />
+<Field Token="67109425" Name="value_42" />
+<Field Token="67109426" Name="type_43" />
+<Field Token="67109427" Name="value_43" />
+<Field Token="67109428" Name="type_44" />
+<Field Token="67109429" Name="value_44" />
+<Field Token="67109430" Name="type_45" />
+<Field Token="67109431" Name="value_45" />
+<Field Token="67109432" Name="type_46" />
+<Field Token="67109433" Name="value_46" />
+<Field Token="67109434" Name="type_47" />
+<Field Token="67109435" Name="value_47" />
+<Field Token="67109436" Name="type_48" />
+<Field Token="67109437" Name="value_48" />
+<Field Token="67109438" Name="type_49" />
+<Field Token="67109439" Name="value_49" />
+<Field Token="67109440" Name="type_50" />
+<Field Token="67109441" Name="value_50" />
+<Field Token="67109442" Name="type_51" />
+<Field Token="67109443" Name="value_51" />
+<Field Token="67109444" Name="type_52" />
+<Field Token="67109445" Name="value_52" />
+<Field Token="67109446" Name="type_53" />
+<Field Token="67109447" Name="value_53" />
+<Field Token="67109448" Name="type_54" />
+<Field Token="67109449" Name="value_54" />
+<Field Token="67109450" Name="type_55" />
+<Field Token="67109451" Name="value_55" />
+<Field Token="67109452" Name="type_56" />
+<Field Token="67109453" Name="value_56" />
+<Field Token="67109454" Name="type_57" />
+<Field Token="67109455" Name="value_57" />
+<Field Token="67109456" Name="type_58" />
+<Field Token="67109457" Name="value_58" />
+<Field Token="67109458" Name="type_59" />
+<Field Token="67109459" Name="value_59" />
+<Field Token="67109460" Name="type_60" />
+<Field Token="67109461" Name="value_60" />
+<Field Token="67109462" Name="type_61" />
+<Field Token="67109463" Name="value_61" />
+<Field Token="67109464" Name="type_62" />
+<Field Token="67109465" Name="value_62" />
+<Field Token="67109466" Name="type_63" />
+<Field Token="67109467" Name="value_63" />
+<Field Token="67109468" Name="type_64" />
+<Field Token="67109469" Name="value_64" />
+<Type Token="33554456" Name="Tasks.Task_Region" />
+<Method Token="100663395" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109470" Name="zvMin_x" />
+<Field Token="67109471" Name="zvMin_y" />
+<Field Token="67109472" Name="zvMin_z" />
+<Field Token="67109473" Name="zvMax_x" />
+<Field Token="67109474" Name="zvMax_y" />
+<Field Token="67109475" Name="zvMax_z" />
+<Type Token="33554457" Name="Tasks.task_tm" />
+<Method Token="100663396" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109476" Name="day" />
+<Field Token="67109477" Name="hour" />
+<Field Token="67109478" Name="min" />
+<Field Token="67109479" Name="month" />
+<Field Token="67109480" Name="wday" />
+<Field Token="67109481" Name="year" />
+<Type Token="33554458" Name="Tasks.TEAM_MEM_WANTED" />
+<Method Token="100663397" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109482" Name="m_ulLevelMin" />
+<Field Token="67109483" Name="m_ulLevelMax" />
+<Field Token="67109484" Name="m_ulRace" />
+<Field Token="67109485" Name="m_ulOccupation" />
+<Field Token="67109486" Name="m_ulGender" />
+<Field Token="67109487" Name="m_ulMinCount" />
+<Field Token="67109488" Name="m_ulMaxCount" />
+<Field Token="67109489" Name="m_ulTask" />
+<Field Token="67109490" Name="m_iForce" />
+<Type Token="33554459" Name="Tasks.TITLE_AWARD" />
+<Method Token="100663398" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109491" Name="m_ulTitleID" />
+<Field Token="67109492" Name="m_lPeriod" />
+<Type Token="33554460" Name="Tasks.window" />
+<Method Token="100663399" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663400" Name="get_talktext" Variables="this;" ParamCnt="1" />
+<Method Token="100663401" Name="set_talktext" Variables="this;value;trimChars;" ParamCnt="2" />
+<Field Token="67109493" Name="crypt_key" />
+<Field Token="67109494" Name="id" />
+<Field Token="67109495" Name="id_parent" />
+<Field Token="67109496" Name="talk_text_len" />
+<Field Token="67109497" Name="talk_text" />
+<Field Token="67109498" Name="num_option" />
+<Field Token="67109499" Name="options" />
+<Type Token="33554461" Name="Tasks.ZONE_VERT" />
+<Method Token="100663402" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109500" Name="x" />
+<Field Token="67109501" Name="y" />
+<Field Token="67109502" Name="z" />
+<Type Token="33554462" Name="Elements.eList" />
+<Method Token="100663403" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663404" Name="GetValue" Variables="this;ElementIndex;FieldIndex;value;type;" ParamCnt="3" />
+<Method Token="100663405" Name="SetValue" Variables="this;ElementIndex;FieldIndex;Value;type;hex;b;i;target;source;target;source;" ParamCnt="4" />
+<Method Token="100663406" Name="GetType" Variables="this;FieldIndex;" ParamCnt="2" />
+<Method Token="100663407" Name="RemoveItem" Variables="this;itemIndex;newValues;" ParamCnt="2" />
+<Method Token="100663408" Name="AddItem" Variables="this;itemValues;" ParamCnt="2" />
+<Method Token="100663409" Name="ExportItem" Variables="this;file;index;sw;i;" ParamCnt="3" />
+<Method Token="100663410" Name="ImportItem" Variables="this;file;index;sr;i;" ParamCnt="3" />
+<Method Token="100663411" Name="JoinElements" Variables="this;newList;listID;addNew;backupNew;replaceChanged;backupChanged;removeMissing;backupMissing;dirBackupNew;dirBackupChanged;dirBackupMissing;newElementValues;report;exists;n;e;V_5;e;n;i;" ParamCnt="12" />
+<Field Token="67109503" Name="listName" />
+<Field Token="67109504" Name="listOffset" />
+<Field Token="67109505" Name="elementFields" />
+<Field Token="67109506" Name="elementTypes" />
+<Field Token="67109507" Name="elementValues" />
+<Type Token="33554463" Name="Elements.eListCollection" />
+<Method Token="100663412" Name=".ctor" Variables="this;elFile;" ParamCnt="2" />
+<Method Token="100663413" Name="RemoveItem" Variables="this;ListIndex;ElementIndex;" ParamCnt="3" />
+<Method Token="100663414" Name="AddItem" Variables="this;ListIndex;ItemValues;" ParamCnt="3" />
+<Method Token="100663415" Name="GetOffset" Variables="this;ListIndex;" ParamCnt="2" />
+<Method Token="100663416" Name="SetOffset" Variables="this;ListIndex;Offset;hex;i;" ParamCnt="3" />
+<Method Token="100663417" Name="GetValue" Variables="this;ListIndex;ElementIndex;FieldIndex;" ParamCnt="4" />
+<Method Token="100663418" Name="SetValue" Variables="this;ListIndex;ElementIndex;FieldIndex;Value;" ParamCnt="5" />
+<Method Token="100663419" Name="GetType" Variables="this;ListIndex;FieldIndex;" ParamCnt="3" />
+<Method Token="100663420" Name="readValue" Variables="this;br;type;" ParamCnt="3" />
+<Method Token="100663421" Name="writeValue" Variables="this;bw;value;type;" ParamCnt="4" />
+<Method Token="100663422" Name="loadConfiguration" Variables="this;file;sr;Li;line;i;offset;" ParamCnt="2" />
+<Method Token="100663423" Name="loadRules" Variables="this;file;sr;result;key;value;line;" ParamCnt="2" />
+<Method Token="100663424" Name="Load" Variables="this;elFile;Li;fs;br;configFiles;l;head;count;body;tail;head;count;body;pattern;sourcePosition;listLength;run;i;e;f;" ParamCnt="2" />
+<Method Token="100663425" Name="Save" Variables="this;elFile;fs;bw;l;e;f;" ParamCnt="2" />
+<Method Token="100663426" Name="Export" Variables="this;RulesFile;TargetFile;rules;fs;bw;l;hex;b;i;e;f;" ParamCnt="3" />
+<Field Token="67109508" Name="Version" />
+<Field Token="67109509" Name="Signature" />
+<Field Token="67109510" Name="ConversationListIndex" />
+<Field Token="67109511" Name="ConfigFile" />
+<Field Token="67109512" Name="Lists" />
+<Type Token="33554464" Name="Elements.eListConversation" />
+<Method Token="100663427" Name=".ctor" Variables="this;Bytes;ms;br;d;q;c;" ParamCnt="2" />
+<Method Token="100663428" Name="GetBytes" Variables="this;ms;bw;result;d;q;c;" ParamCnt="1" />
+<Field Token="67109513" Name="DialogCount" />
+<Field Token="67109514" Name="Dialogs" />
+<Type Token="33554465" Name="Elements.eChoice" />
+<Method Token="100663429" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663430" Name="GetText" Variables="this;" ParamCnt="1" />
+<Method Token="100663431" Name="SetText" Variables="this;Value;target;source;" ParamCnt="2" />
+<Field Token="67109515" Name="Control" />
+<Field Token="67109516" Name="ChoiceText" />
+<Type Token="33554466" Name="Elements.eQuestion" />
+<Method Token="100663432" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663433" Name="GetText" Variables="this;" ParamCnt="1" />
+<Method Token="100663434" Name="SetText" Variables="this;Value;enc;" ParamCnt="2" />
+<Field Token="67109517" Name="QuestionID" />
+<Field Token="67109518" Name="Control" />
+<Field Token="67109519" Name="QuestionTextLength" />
+<Field Token="67109520" Name="QuestionText" />
+<Field Token="67109521" Name="ChoiceQount" />
+<Field Token="67109522" Name="Choices" />
+<Type Token="33554467" Name="Elements.eDialog" />
+<Method Token="100663435" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663436" Name="GetText" Variables="this;" ParamCnt="1" />
+<Method Token="100663437" Name="SetText" Variables="this;Value;target;source;" ParamCnt="2" />
+<Field Token="67109523" Name="DialogID" />
+<Field Token="67109524" Name="DialogName" />
+<Field Token="67109525" Name="QuestionCount" />
+<Field Token="67109526" Name="Questions" />
+<Type Token="33554468" Name="DataTranslator.ElementTable" />
+<Field Token="67109527" Name="list" />
+<Field Token="67109528" Name="id" />
+<Field Token="67109529" Name="f" />
+<Type Token="33554469" Name="DataTranslator.Fields" />
+<Field Token="67109530" Name="field" />
+<Field Token="67109531" Name="value" />
+<Type Token="33554470" Name="DataTranslator.ElementsData" />
+<Method Token="100663438" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663439" Name="LoadElements" Variables="this;FilePath;" ParamCnt="2" />
+<Method Token="100663440" Name="CreateElTable" Variables="this;e;el_pattern;etl;a;b;et;c;V_5;s;f;" ParamCnt="3" />
+<Type Token="33554472" Name="DataTranslator.Form1" />
+<Method Token="100663449" Name=".ctor" Variables="this;sr;line;V_2;" ParamCnt="1" />
+<Method Token="100663450" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663451" Name="open_el_Click" Variables="this;sender;e;ofd;" ParamCnt="3" />
+<Method Token="100663452" Name="import_el_Click" Variables="this;sender;e;ofd;" ParamCnt="3" />
+<Method Token="100663453" Name="Import" Variables="this;filename;a;b;c;d;V_4;f;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663454" Name="open_task_Click" Variables="this;sender;e;ofd;input;binaryStream;m_uTaskCount;numArray;index;num4;V_7;" ParamCnt="3" />
+<Method Token="100663455" Name="import_task_Click" Variables="this;sender;e;ofd;" ParamCnt="3" />
+<Method Token="100663456" Name="ImportT" Variables="this;filename;input;binaryStream;m_uTaskCount;numArray;num41;output;bw;index;num4;V_9;a;b;c;V_13;index;num6;" ParamCnt="2" />
+<Method Token="100663457" Name="debugBox_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663458" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663459" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109535" Name="etl" />
+<Field Token="67109536" Name="src" />
+<Field Token="67109537" Name="dst" />
+<Field Token="67109538" Name="ed" />
+<Field Token="67109539" Name="t_src" />
+<Field Token="67109540" Name="t_dst" />
+<Field Token="67109541" Name="t_src_v" />
+<Field Token="67109542" Name="t_dst_v" />
+<Field Token="67109543" Name="el_pattern" />
+<Field Token="67109544" Name="versions" />
+<Field Token="67109545" Name="components" />
+<Field Token="67109546" Name="tabControl1" />
+<Field Token="67109547" Name="tabPage1" />
+<Field Token="67109548" Name="tabPage2" />
+<Field Token="67109549" Name="tabPage3" />
+<Field Token="67109550" Name="import_el" />
+<Field Token="67109551" Name="open_el" />
+<Field Token="67109552" Name="label1" />
+<Field Token="67109553" Name="label2" />
+<Field Token="67109554" Name="dest_status" />
+<Field Token="67109555" Name="src_status" />
+<Field Token="67109556" Name="label3" />
+<Field Token="67109557" Name="label4" />
+<Field Token="67109558" Name="import_task" />
+<Field Token="67109559" Name="open_task" />
+<Field Token="67109560" Name="ProgressStatus" />
+<Field Token="67109561" Name="t_dst_status" />
+<Field Token="67109562" Name="t_src_status" />
+<Field Token="67109563" Name="debugBox" />
+<Type Token="33554473" Name="DataTranslator.Program" />
+<Method Token="100663460" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554475" Name="DataTranslator.Properties.Resources" />
+<Method Token="100663469" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663470" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663471" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663472" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109572" Name="resourceMan" />
+<Field Token="67109573" Name="resourceCulture" />
+<Type Token="33554476" Name="DataTranslator.Properties.Settings" />
+<Method Token="100663473" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663474" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663475" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67109574" Name="defaultInstance" />
+<Type Token="33554477" Name="&lt;PrivateImplementationDetails&gt;" />
+<Field Token="67109575" Name="85AE3A6CBFA729696C29FB0E083273A853D42AC0" />
+<Type Token="33554478" Name="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=116" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663343" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\ATaskTemplFixedData.cs" NewName="File0" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\CONVERSATION.cs" NewName="File1" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\option.cs" NewName="File2" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\talk_proc.cs" NewName="File3" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Tasks\window.cs" NewName="File4" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Elements\eList.cs" NewName="File5" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Elements\eListCollection.cs" NewName="File6" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Elements\eListConversation.cs" NewName="File7" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\ElementsData.cs" NewName="File8" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Form1.cs" NewName="File9" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Form1.Designer.cs" NewName="File10" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Program.cs" NewName="File11" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Properties\Resources.Designer.cs" NewName="File12" />
+<File OldName="C:\Users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\Properties\Settings.Designer.cs" NewName="File13" />
+</Mappings>

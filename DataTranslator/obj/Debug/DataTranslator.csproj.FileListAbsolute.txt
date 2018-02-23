@@ -1,0 +1,9 @@
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\bin\Debug\DataTranslator.exe.config
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\bin\Debug\DataTranslator.exe
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\bin\Debug\DataTranslator.pdb
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\obj\Debug\DataTranslator.csprojResolveAssemblyReference.cache
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\obj\Debug\DataTranslator.Form1.resources
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\obj\Debug\DataTranslator.Properties.Resources.resources
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\obj\Debug\DataTranslator.csproj.GenerateResource.Cache
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\obj\Debug\DataTranslator.exe
+c:\users\kn1fe\documents\visual studio 2015\Projects\DataTranslator\DataTranslator\obj\Debug\DataTranslator.pdb
